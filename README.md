@@ -1,3 +1,5 @@
-# Not Sure How To Use It ?
+![screenshot](https://i.imgur.com/qwltEDz.png)
 
--> Read ~/.config/i3/config file and understand it !
+> Not Sure How To Use It ?
+
+- Read ~/.config/i3/config file after installation and understand it !
